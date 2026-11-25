@@ -1,8 +1,8 @@
 <?php
 
+// mysql
 $host = "localhost";
-$username = "";
+$username = "root";
 $password = "";
-$db_name = "";
-
+$db = "cp_db";
 ?>
